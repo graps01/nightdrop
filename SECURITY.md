@@ -22,3 +22,5 @@ declined, etc.
 11/28/19 - Report any issues to this repository via Issues or Actions.
             For issues other than administrative or branching, contact the particular user. Thanks !
             Please check the daydrop for other changes or uploaded files, in conjunction with the nightdrop repository.
+
+02/02/23 - Be sure to send me a note if you are wondering what I am up to, regarding this sample code. It's from a published book, so the information is available on the Internet to those who want more.
